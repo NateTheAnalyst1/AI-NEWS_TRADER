@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+matplotlib
+numpy
+selenium
+textblob
